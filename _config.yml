@@ -12,8 +12,8 @@ title                    : "Teng Zhang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Teng Zhang"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "HTTP://ZhangTeng-Hust.github.io" # the subpath of your site, e.g. "/blog"
+url                      : https://ZhangTeng-Hust.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZhangTeng-Hust.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.

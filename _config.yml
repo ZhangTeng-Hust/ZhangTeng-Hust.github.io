@@ -27,14 +27,14 @@ author:
   bio              : "Robot!!!"
   location         : "Wuhan China"
   employer         :
-  uri              : https://ZhangTeng-Hust.github.io
+  uri              :
   email            : "zhang_teng@hust.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=aPbXN-cAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3366-2425"
+  orcid            : "https://orcid.org/0000-0003-3366-2425"
   pubmed           :
   researchgate     : # URL
 

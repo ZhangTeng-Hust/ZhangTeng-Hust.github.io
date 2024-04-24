@@ -15,4 +15,4 @@ First, the knowledge of the source domain is transferred to the target domain at
 
 The graphic abstracts are shown below
 
-![1GA](F:\博士文件\PersonalPage\ZhangTeng-Hust.github.io\_publications\1GA-1713944119136-3.png)
+![1GA](1GA-1713944119136-3.png)

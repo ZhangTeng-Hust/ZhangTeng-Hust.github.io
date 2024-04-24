@@ -6,7 +6,7 @@ excerpt: 'This paper presents a combined statistical principles and machine lear
 date: 2024-02-01
 venue: 'February 01'
 paperurl: 'https://doi.org/10.51393/j.jamst.2024010'
-citation: 'R. DENG, X. TANG, T. ZHANG, F. PENG, J. YUAN, R. YAN, An effective robotic processing errors prediction method considering temporal characteristics, Journal of Advanced Manufacturing Science and Technology, 0 (2024) 0, https://doi.org/10.51393/j.jamst.2024010.'
+citation: 'R. DENG, X. TANG, T. ZHANG*, F. PENG, J. YUAN, R. YAN, An effective robotic processing errors prediction method considering temporal characteristics, Journal of Advanced Manufacturing Science and Technology, 0 (2024) 0, https://doi.org/10.51393/j.jamst.2024010.'
 ---
 
 ### Contribution

@@ -24,25 +24,25 @@ author:
   avatar           : "Myprofile.png"
   name             : "Teng Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Robot!!!"
   location         : "Wuhan China"
-  employer       : # URL
-  uri              : # URL
+  employer         :
+  uri              : https://ZhangTeng-Hust.github.io
   email            : "zhang_teng@hust.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=aPbXN-cAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "[Teng Zhang (0000-0003-3366-2425) - My ORCID](https://orcid.org/my-orcid?orcid=0000-0003-3366-2425)"
-  pubmed           :# "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3366-2425"
+  pubmed           :
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "[ZhangTeng-Hust (ZhangTeng) (github.com)](https://github.com/ZhangTeng-Hust)"
+  github           : "https://github.com/ZhangTeng-Hust"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -70,7 +70,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : [(3 条消息) LM'sT - 知乎 (zhihu.com)](https://www.zhihu.com/people/lm-st-33)
+  zhihu            : "https://www.zhihu.com/people/lm-st-33"
 
 
 # Site Settings

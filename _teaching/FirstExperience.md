@@ -2,9 +2,9 @@
 title: "Senior high school"
 collection: teaching
 type: "High school stage"
-permalink: /teaching/2014-spring-teaching-1
-venue: "Huairen No. 1 High School"
-date: 2014-01-01
+permalink: /teaching/FirstExperience
+venue: "HuaiRen No. 1 High School"
+date: 2013-09-01
 location: "ShuoZhou, China"
 ---
 

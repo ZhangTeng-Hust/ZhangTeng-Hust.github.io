@@ -8,13 +8,7 @@ date: 2013-09-01
 location: "ShuoZhou, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Period：2013-09-01~2016-06.30
 
-Heading 1
-======
+Experience：我是105班的学生
 
-Heading 2
-======
-
-Heading 3
-======

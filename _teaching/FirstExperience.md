@@ -10,7 +10,7 @@ location: "ShuoZhou, China"
 
 Period: 2013-09-01~2016-06-30
 
-## Description
+# Description
 
 I am conducting my high school studies in Huairen No. 1 Middle School in Shuozhou City, Shanxi Province. My class was class 505 (science general class).
 

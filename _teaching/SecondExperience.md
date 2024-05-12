@@ -10,7 +10,7 @@ location: "Nanjing, China"
 
 Period: 2016-09-01~2020-06-30
 
-## Description
+# Description
 
 I received my Bachelor of Engineering degree from NUAA's College of Mechanical & Electrical Engineering, where I majored in Mechanical Engineering. My class was 105, and I always held the position of class president, and my homeroom teacher was [Prof. Yinfei Yang](https://www.researchgate.net/profile/Yang-Yinfei). At the time of graduation, I had an average GAP of 4.1 (full GPA = 5.0), which was the second highest in the college out of 313 students in my class. With this achievement, I was recommended by the Ministry of Education to pursue my doctoral degree at HuaZhong University of Science and Technology （HUST）.
 
@@ -20,7 +20,7 @@ During this time, I was almost directly or indirectly involved in several projec
 
  
 
-## Awards
+# Awards
 
 - National Scholarship, 2017 and 2020, Ministry of Education of the People's Republic of China
 
@@ -32,7 +32,7 @@ During this time, I was almost directly or indirectly involved in several projec
 
   
 
-## Competitions
+# Competitions
 
 - Jiangsu Province "Challenge Cup" Extracurricular Academic Work Competition for College Students, First Prize, 2018, Supervisor:  [Prof. Lida Shen](https://www.researchgate.net/profile/Lida-Shen-2)
 

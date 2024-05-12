@@ -10,13 +10,13 @@ location: "Wuhang, China"
 
 Period：2020-09-01~Till now
 
-## Description
+# Description
 
 I am pursuing my Ph.D. in Engineering at HUST's School of Mechanical Science and Engineering College, where I specialize in Mechanical Engineering. As of this writing, I have a weighted GPA of 92.7 out of 100, which places me first in my class of all Ph.D.s (1/144),  [**Transcript**](..\files\Transcript.pdf) 
 
 
 
-## Supervisor and my research interests
+# Supervisor and my research interests
 
 I was instructed by three supervisors at the same time, and their basic profiles are as follows, 
 
@@ -40,7 +40,7 @@ In the future, I have a wealth of interest in the following areas:
 - Generalized robot generalization data characterization and propriety cognition and performance evaluation based on it;
 - Practical digital intelligences (digital twins, Industry 5.0 architecture) for pre-simulation, process monitoring and decision control in engineering and manufacturing.
 
-## Publications
+# Publications
 
 [My Publication](https://zhangteng-hust.github.io/publications/)
 
@@ -48,17 +48,17 @@ Notes： Bolding is me, * indicates corresponding author.
 
 
 
-## Patents and Software Works
+# Patents and Software Works
 
-### Patents
-
-
-
-### Software works
+## Patents
 
 
 
-## Awards
+## Software works
+
+
+
+# Awards
 
 - Graduate First Class Doctoral Academic Award for the 2020~2024 academic year, Four times;
 - Graduate Student Freshman Scholarship Grand Prize for Academic Year 2019~2020;

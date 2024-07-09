@@ -1,5 +1,5 @@
 ---
-title: "Senior high school"
+title: "Huairen No. 1 High School"
 collection: teaching
 type: "High school stage"
 permalink: /teaching/FirstExperience

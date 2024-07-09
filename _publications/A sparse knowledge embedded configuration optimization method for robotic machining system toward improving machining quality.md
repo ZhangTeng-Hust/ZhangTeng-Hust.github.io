@@ -8,7 +8,7 @@ paperurl: 'https://doi.org/10.1016/j.rcim.2024.102818'
 citation: 'T. Zhang, F. Peng, X. Tang, R. Yan, R. Deng, S. Zhao, A sparse knowledge embedded configuration optimization method for robotic machining system toward improving machining quality, Robot. Comput.-Integr. Manuf., 90 (2024) 102818, https://doi.org/10.1016/j.rcim.2024.102818.'
 ---
 
-### Contribution
+### Contribution1
 
 In this paper, from the perspective of knowledge embedding and transfer, an accurate mapping model is reconstructed through highfidelity sparse sample labeling to achieve more accurate and reliable optimization results. The contributions of this work can be summarized in the following three points:
 

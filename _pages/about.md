@@ -13,3 +13,9 @@ Hi, I'm Zhang Teng. You can call me Simon. This is my personal academic homepage
 I am currently a PhD Canadian in Mechanical Engineering. My research interests are in Artificial Intelligence, Industrial Robotics, Robot Precision Control, Vision Measurement, etc. I have been working on a number of research projects in the field of Mechanical Engineering. But these only represent the focus of the recent period. In the future, I may conduct more interesting research such as embodied intelligence, intelligent human-robot interaction, industry 5.0, unified robot cognitive framework, etc.
 
 Hope to become friends with you. You can contact me at zhangteng.hust@gmail.com and zhang_teng@hust.edu.cn.
+
+### Group
+
+Here's a group photo of our team!!!
+
+<img src="../images/Group.jpg" alt="QQ图片20230425154941" style="zoom:50%;" />

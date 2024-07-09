@@ -27,4 +27,4 @@ In the future, the actual working condition data and the uncertainty in the mach
 
 The graphic abstract is shown below
 
-![paper6GA](./.assets/paper6GA.png)
+![paper6GA](..\images\paper6GA.png)

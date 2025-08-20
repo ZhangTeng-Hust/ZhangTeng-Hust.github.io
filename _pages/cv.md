@@ -50,5 +50,5 @@ Teaching
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for journals such as *J. Manuf. Syst.*, *Reliab. Eng. Syst. Saf.*, *CMC-Comput. Mat. Contin.*, *Adv. Eng. Mater.*, *Mach. Sci. Technol.*, and International Journal of Modeling, Simulation, and Scientific Computing.
 

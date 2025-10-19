@@ -18,4 +18,4 @@ Hope to become friends with you. You can contact me at [Gmail](zhangteng.hust@gm
 
 Here's the group of our team!!!
 
-<img src="./.assets/Group.jpg" alt="Group.jpg" style="zoom:50%;" />
+![group](./.assets/Group.jpg)
